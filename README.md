@@ -1,13 +1,16 @@
 # QuantumGroveHash
 
 ## Instalação 
-Instalar git
-> sudo apt install git
+Instalar git e pip
+> sudo apt install git python3-pip
 
-Instalar pip
-> sudo apt install python3-pip
+Clonar projeto em um computador local
+> git clone https://github.com/mephessivolc/QuantumGroveHash.git
 
-Criar um ambiente de desenvolvimento (como uma pasta .dev)
+Acessar a pasta do projeto
+> cd QuantumGroveHash
+
+Criar um ambiente de desenvolvimento (como uma pasta denominada *dev*)
 > python3 -m venv dev
 
 Ativar ambiente de desenvolvimento em sistema Linux (Ubuntu)
